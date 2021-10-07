@@ -6,7 +6,7 @@
             "wwwroot/css/devextreme/Charset.css",
 
             // Uncomment to use the Gantt control
-            //"wwwroot/css/devextreme/dx-gantt.css",
+            "wwwroot/css/devextreme/dx-gantt.css",
 
             // Uncomment to use the Diagram control
             //"wwwroot/css/devextreme/dx-diagram.css",
@@ -26,7 +26,7 @@
         "outputFileName": "wwwroot/js/vendor.js",
         "inputFiles": [
             // Uncomment to use the Gantt control
-            //"wwwroot/js/devextreme/dx-gantt.js",
+            "wwwroot/js/devextreme/dx-gantt.js",
 
             // Uncomment to use the Diagram control
             //"wwwroot/js/devextreme/dx-diagram.js",
